@@ -1,0 +1,12 @@
+C:\Users\Jacob\BrazyBreakfast\BrazyBreakfast.contracts\bin\Debug\net7.0\BrazyBreakfast.Contracts.deps.json
+C:\Users\Jacob\BrazyBreakfast\BrazyBreakfast.contracts\bin\Debug\net7.0\BrazyBreakfast.Contracts.dll
+C:\Users\Jacob\BrazyBreakfast\BrazyBreakfast.contracts\bin\Debug\net7.0\BrazyBreakfast.Contracts.pdb
+C:\Users\Jacob\BrazyBreakfast\BrazyBreakfast.contracts\obj\Debug\net7.0\BrazyBreakfast.Contracts.csproj.AssemblyReference.cache
+C:\Users\Jacob\BrazyBreakfast\BrazyBreakfast.contracts\obj\Debug\net7.0\BrazyBreakfast.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jacob\BrazyBreakfast\BrazyBreakfast.contracts\obj\Debug\net7.0\BrazyBreakfast.Contracts.AssemblyInfoInputs.cache
+C:\Users\Jacob\BrazyBreakfast\BrazyBreakfast.contracts\obj\Debug\net7.0\BrazyBreakfast.Contracts.AssemblyInfo.cs
+C:\Users\Jacob\BrazyBreakfast\BrazyBreakfast.contracts\obj\Debug\net7.0\BrazyBreakfast.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\BrazyBreakfast\BrazyBreakfast.contracts\obj\Debug\net7.0\BrazyBreakfast.Contracts.dll
+C:\Users\Jacob\BrazyBreakfast\BrazyBreakfast.contracts\obj\Debug\net7.0\refint\BrazyBreakfast.Contracts.dll
+C:\Users\Jacob\BrazyBreakfast\BrazyBreakfast.contracts\obj\Debug\net7.0\BrazyBreakfast.Contracts.pdb
+C:\Users\Jacob\BrazyBreakfast\BrazyBreakfast.contracts\obj\Debug\net7.0\ref\BrazyBreakfast.Contracts.dll
